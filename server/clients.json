@@ -1,0 +1,29 @@
+{
+    "aek": {
+        "files": [
+            "e",
+            "c",
+            "d"
+        ],
+        "listening_ip": "localhost",
+        "listening_port": "33038"
+    },
+    "ael": {
+        "files": [
+            "c",
+            "g",
+            "f"
+        ],
+        "listening_ip": "localhost",
+        "listening_port": "54379"
+    },
+    "paok": {
+        "files": [
+            "b",
+            "g",
+            "a"
+        ],
+        "listening_ip": "localhost",
+        "listening_port": "46831"
+    }
+}
